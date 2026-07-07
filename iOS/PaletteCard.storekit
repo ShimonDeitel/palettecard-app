@@ -1,0 +1,29 @@
+{
+    "nonRenewingSubscriptions" : [],
+    "products" : [
+      {
+        "displayPrice" : "3.99",
+        "familyShareable" : false,
+        "internalID" : "com.shimondeitel.paintmixlog.pro",
+        "localizations" : [
+          {
+            "description" : "Searchable Color Library",
+            "displayName" : "Palette Card - Paint Mix Log Pro",
+            "locale" : "en_US"
+          }
+        ],
+        "productID" : "com.shimondeitel.paintmixlog.pro",
+        "referenceName" : "Palette Card - Paint Mix Log Pro",
+        "type" : "NonConsumable"
+      }
+    ],
+    "settings" : {
+      "_locale" : "en_US",
+      "_storefront" : "USA"
+    },
+    "subscriptionGroups" : [],
+    "version" : {
+      "major" : 3,
+      "minor" : 0
+    }
+}
